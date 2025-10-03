@@ -95,3 +95,15 @@ Pro components used in the starter are :
  - [Vaadin Confirm Dialog](https://vaadin.com/components/vaadin-confirm-dialog) 
 
  Also the tests are created using [Testbench](https://vaadin.com/testbench) library.
+
+
+
+ ---
+
+## Grupo
+
+**Nickname:** EDS  
+
+| Nº     | Nome         | Curso|
+|--------|--------------|------|
+| 123680 | Miguel Puga  | LDSA |
